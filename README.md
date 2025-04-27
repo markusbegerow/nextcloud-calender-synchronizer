@@ -11,6 +11,11 @@
 - Fallback auf Full-Fetch, falls Sync-Collection nicht verfügbar
 - Logging der Synchronisationsschritte und Fehler
 
+## Nächste Schritte
+- Aufbau einer Nextcloud App
+- Einfaches Mapping pro Benutzer & Kalender mittels Drag & Drop & WYSIWYG
+- Verbesserungen...
+
 ## Mitwirken
 
 Beiträge sind jederzeit willkommen!

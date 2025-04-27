@@ -1,1 +1,1 @@
-# nextcloud-calender-synchronizer
+# Nextcloud Calendar

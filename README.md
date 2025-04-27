@@ -5,7 +5,7 @@
 ## Features
 
 - Inkrementeller Sync mit sync-collection (RFC 6578) auf Nextcloud-Seite
-- Full-Fetch + Diff-Logik auf All-inkl-Seite
+- Full-Fetch + Diff-Logik auf Server-Seite
 - Automatische Erkennung von neuen, geänderten und gelöschten Events
 - Lokales Caching des sync-token für performanten Sync
 - Fallback auf Full-Fetch, falls Sync-Collection nicht verfügbar

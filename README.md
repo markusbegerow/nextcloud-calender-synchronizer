@@ -2,6 +2,15 @@
 
 ![calender_sync](https://github.com/user-attachments/assets/e8a2be8b-bc21-4502-b039-7c8ead40a460)
 
+## Features
+
+- Inkrementeller Sync mit sync-collection (RFC 6578) auf Nextcloud-Seite
+- Full-Fetch + Diff-Logik auf All-inkl-Seite
+- Automatische Erkennung von neuen, geänderten und gelöschten Events
+- Lokales Caching des sync-token für performanten Sync
+- Fallback auf Full-Fetch, falls Sync-Collection nicht verfügbar
+- Logging der Synchronisationsschritte und Fehler
+
 ## Mitwirken
 
 Beiträge sind jederzeit willkommen!

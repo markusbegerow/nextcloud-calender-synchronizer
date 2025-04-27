@@ -11,7 +11,7 @@
 - Fallback auf Full-Fetch, falls Sync-Collection nicht verfügbar
 - Logging der Synchronisationsschritte und Fehler
 
-## Nächste Schritte
+## Nächste Schritte für Alpha 0.2
 - Aufbau einer Nextcloud App
 - Einfaches Mapping pro Benutzer & Kalender mittels Drag & Drop & WYSIWYG
 - Verbesserungen...

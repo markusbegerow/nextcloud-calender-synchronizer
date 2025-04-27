@@ -1,5 +1,9 @@
 # Nextcloud calendar synchronisation - Alpha 0.1
 
+![nextcloud_calendar_synchronisation](https://github.com/user-attachments/assets/030bbfc2-e53d-4b7a-8de4-c1ae1eb4d129)
+
+## Preview
+
 ![calender_sync](https://github.com/user-attachments/assets/e8a2be8b-bc21-4502-b039-7c8ead40a460)
 
 ## Features
